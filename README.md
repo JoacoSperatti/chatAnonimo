@@ -77,4 +77,4 @@ npm run dev
 - [ ] Persistent message history using a lightweight database (e.g., SQLite).
 
 ---
-*Developed as a technical project for Systems Engineering studies at UTN.*
+*Developed as a technical project.*
