@@ -32,7 +32,7 @@ A lightweight, anonymous chat application built to demonstrate real-time, bidire
 
 ### 2. Backend Setup
 Navigate to your backend directory and run:
-```bash
+
 # Create a virtual environment
 python -m venv venv
 
@@ -49,7 +49,6 @@ python server.py
 
 Navigate to your frontend directory and run:
 
-```bash
 # Install all necessary dependencies (React, Vite, etc.)
 npm install
 
@@ -78,4 +77,4 @@ npm run dev
 - [ ] Persistent message history using a lightweight database (e.g., SQLite).
 
 ---
-*Developed as a technical project.*
+*Developed as a technical project for Systems Engineering studies at UTN.*
